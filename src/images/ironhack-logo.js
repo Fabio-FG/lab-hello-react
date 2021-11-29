@@ -1,0 +1,8 @@
+function Ironhacklogo(){
+    return(
+
+        <img src="https://camo.githubusercontent.com/6dbf4246ec0b2726858d1b9f76d74553f83cd99e34a0ac84b0aafcd45b0e2ada/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c616e64696e672d706167652f69726f6e6861636b2d6c6f676f2d78732d6461726b2e706e67" alt="ironhack-logo" className="ironhack-logo"/>
+    )
+}
+
+export default Ironhacklogo;
